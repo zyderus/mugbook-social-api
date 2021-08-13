@@ -9,7 +9,6 @@
 
 ## Description
 
-A movies information portal with easily accesible relevant information
 API endpoints for Mugbook Social media app.
 
 ## Tech
