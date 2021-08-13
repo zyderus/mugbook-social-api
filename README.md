@@ -40,82 +40,56 @@ Typescript, Express, Mongoose, MongoDB
 
 ### API Endpoints
 
-post
-
 ```sh
-/api/auth/register
+post: /api/auth/register
 ```
 
-post
-
 ```sh
-/api/auth/login
+post: /api/auth/login
 ```
 
-get
-
 ```sh
-/api/users/:id
+get: /api/users/:id
 ```
 
-put
-
 ```sh
-/api/users/:id
+put: /api/users/:id
 ```
 
-delete
-
 ```sh
-/api/users/:id
+delete: /api/users/:id
 ```
 
-put
-
 ```sh
-/api/users/:id/follow
+put: /api/users/:id/follow
 ```
 
-put
-
 ```sh
-/api/users/:id/unfollow
+put: /api/users/:id/unfollow
 ```
 
-post
-
 ```sh
-/api/posts
+post: /api/posts
 ```
 
-get
-
 ```sh
-/api/posts/:id
+get: /api/posts/:id
 ```
 
-put
-
 ```sh
-/api/posts/:id
+put: /api/posts/:id
 ```
 
-delete
-
 ```sh
-/api/posts/:id
+delete: /api/posts/:id
 ```
 
-put
-
 ```sh
-/api/posts/:id/like
+put: /api/posts/:id/like
 ```
 
-get
-
 ```sh
-/api/posts/timeline/show
+get: /api/posts/timeline/show
 ```
 
 ## Contributors
