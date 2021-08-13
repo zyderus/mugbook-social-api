@@ -7,10 +7,6 @@
   🚀 Entrypoint @ https://watch-movies-app.herokuapp.com/ | hosted with <a href="https://id.heroku.com/">Heroku</a>
 </p>
 
-<div align="center">
-  <img src="https://github.com/zyderus/portfolio/blob/main/public/assets/images/tron.png" width="100%">
-</div> -->
-
 ## Description
 
 A movies information portal with easily accesible relevant information
