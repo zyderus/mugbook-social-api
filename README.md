@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  🚀 Entrypoint @ https://watch-movies-app.herokuapp.com/ | hosted with <a href="https://id.heroku.com/">Heroku</a>
+  🚀 Entrypoint @ https://mugbook-social-api.herokuapp.com | hosted with <a href="https://id.heroku.com/">Heroku</a>
 </p>
 
 ## Description
