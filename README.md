@@ -9,7 +9,7 @@
 
 ## Description
 
-API endpoints for Mugbook Social media app.
+API endpoints for Mugbook Social media app. It handles local login and registration, user dashboard, add friends, view timeline and manage posts.
 
 ## Tech
 
