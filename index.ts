@@ -6,6 +6,7 @@ import morgan from 'morgan'
 import userRoute from './routes/users'
 import authRoute from './routes/auth'
 import postRoute from './routes/posts'
+import { intro } from './public/intro'
 
 dotenv.config()
 const app = express()
@@ -30,5 +31,5 @@ app.use('/api/users', userRoute)
 app.use('/api/auth', authRoute)
 app.use('/api/posts', postRoute)
 
-app.get('/', (req, res) => res.send('Homepage'))
+app.get('/', (req, res) => res.send(intro))
 app.listen(port, () => console.log(`⚡ [server]: running @ http://localhost:${port}`))
